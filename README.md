@@ -2,8 +2,8 @@
 This repository provides detailed workflows and guides for using and managing osTicket. It includes  instructions for user account creation, ticket management, and admin tasks
 
 ## Prerequisites
- To install osTicket, click, click [here](https://github.com/ccastro25/Setting_up_osTicket/blob/main/README.md) to get started. 
- For setting up roles and correct privileges, click [here](https://github.com/ccastro25/Configuring_osTicket_System/blob/main/README.md) to get started
+ If you have not installed osTicket, click, click [here](https://github.com/ccastro25/Setting_up_osTicket/blob/main/README.md) to get started. 
+ If you have not set up roles and the internal hierarchy, click [here](https://github.com/ccastro25/Configuring_osTicket_System/blob/main/README.md) to get started
 
 
 ## Creating a User Account
