@@ -34,7 +34,7 @@ This repository provides detailed workflows and guides for using and managing os
 ![User resetting passwrod](https://github.com/user-attachments/assets/e53b28ff-ab5e-405a-ba6a-abf07abc59b5)
 
 ## User Creating Ticket
-1. Select **PC Issues**
+1. Under Help Topic select **PC Issues**
 2. Enter issue summary
 3. Enter message
 4. Click **Create Ticket**
